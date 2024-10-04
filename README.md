@@ -15,8 +15,8 @@ Welcome to my 3D Portfolio! This is a creative showcase of my skills as a freela
 ⚙️ Technologies Used
 
 - Web Technologies: HTML, CSS, JavaScript
-- 3D Graphics: [Three.js](https://threejs.org/) (or any other library you used)
-- Frameworks: (If you used any frameworks, mention them here, e.g., React, Vue)
+- 3D Graphics: [Three.js](https://threejs.org/) 
+- Frameworks: (If you used any frameworks, mention them here, e.g., React, Vite)
 - Deployment: GitHub Pages, Netlify, or any other hosting service you used.
 
  🛠️ Installation
