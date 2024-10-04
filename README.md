@@ -67,5 +67,5 @@ Feel free to reach out via:
 
 - Email: [sejalsakshu06@gmail.com](mailto:sejalsakshu06@example.com)
 - LinkedIn: (https://www.linkedin.com/in/Sejal06)
--visit live website( https://sejalportfolio06.netlify.app/)
+- visit live website( https://sejalportfolio06.netlify.app/)
 
