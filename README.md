@@ -59,9 +59,9 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 
 # screenshots:
-![{BF48C942-E73B-46D3-A2F5-D219CBF3C6E9}](https://github.com/user-attachments/assets/a0e89314-1287-42fa-853f-8a00ff9d9457)
 ![{E6032AEC-13D4-40DC-9A15-851B80AFA0C0}](https://github.com/user-attachments/assets/22f2421b-3ba5-451f-9b2a-388bfb8cf3f4)
 
+<img width="1746" height="839" alt="image" src="https://github.com/user-attachments/assets/1c93c213-8018-480f-98ac-e277f16e2b69" />
 
 
 
